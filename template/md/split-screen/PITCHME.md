@@ -1,7 +1,7 @@
 +++?image=template/img/bg/gray.jpg&position=right&size=50% 100%
 @title[Heading + List Body]
 
-@snap[west text-16 text-bold text-italic text-black span-30]
+@snap[west text-16 text-bold text-italic text-black span-70]
 Roteiro
 @snapend
 
