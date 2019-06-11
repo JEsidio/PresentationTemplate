@@ -14,7 +14,7 @@
 @title[Quote + Image]
 
 @snap[north-east span-60]
-@quote[We cannot solve our problems with the same thinking we used when we created them.]
+@quote[We cannot solve our problems with the same thinking we used when we created them TESTANDOOOOOOO.]
 @snapend
 
 @snap[south-east template-note text-gray]
