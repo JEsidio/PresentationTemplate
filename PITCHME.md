@@ -16,8 +16,6 @@ Step 3. Copy slide markdown snippets from template/md directory as needed.
 Christiano Piccinin, Jenifer Esidio, Luan Bachtold e Luiza Liebl.
 @snapend
 
----
-
 ---?include=template/md/split-screen/PITCHME.md
 
 ---?include=template/md/sidebar/PITCHME.md
