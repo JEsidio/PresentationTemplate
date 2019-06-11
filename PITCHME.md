@@ -9,11 +9,11 @@ Step 3. Copy slide markdown snippets from template/md directory as needed.
 -->
 
 @snap[west text-25 text-bold text-white]
-GitPitch<br>*Placa de Redes*
+*Placa de Redes*
 @snapend
 
 @snap[south-west byline text-white text-06]
-The Fastest Way From Idea To Presentation.
+Christiano Piccinin, Jenifer Esidio, Luan Bachtold e Luiza Liebl.
 @snapend
 
 ---
