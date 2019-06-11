@@ -1,4 +1,4 @@
----?color=linear-gradient(to right, #c02425, #f0cb35)
+---?color=linear-gradient(to right, #2222bf, ##39d0f9)
 @title[Introduction]
 
 <!--
@@ -15,6 +15,8 @@ Step 3. Copy slide markdown snippets from template/md directory as needed.
 @snap[south-west byline text-white text-06]
 Christiano Piccinin, Jenifer Esidio, Luan Bachtold e Luiza Liebl.
 @snapend
+
+---
 
 ---?include=template/md/split-screen/PITCHME.md
 
