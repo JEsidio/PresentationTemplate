@@ -27,14 +27,14 @@ Christiano Piccinin, Jenifer Esidio, Luan Bachtold e Luiza Liebl.
 Reuse the *markdown snippet* for any slide in this template within your own @css[text-gold text-bold](PITCHME.md) files.
 @snapend
 
---->
+
 @title[Tip! Fullscreen]
 
 ![TIP](template/img/tip.png)
 <br>
 For the best viewing experience, press F for fullscreen.
 @css[template-note](We recommend using the *SPACE* key to navigate between slides.)
-
+--->
 ---?include=template/md/split-screen/PITCHME.md
 
 ---?include=template/md/sidebar/PITCHME.md
