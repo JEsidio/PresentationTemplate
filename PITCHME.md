@@ -16,7 +16,7 @@ Step 3. Copy slide markdown snippets from template/md directory as needed.
 Christiano Piccinin, Jenifer Esidio, Luan Bachtold e Luiza Liebl.
 @snapend
 
----
+<!---
 @title[Slide Markdown]
 
 ### Each slide in this presentation is provided as a *template*.
@@ -27,7 +27,7 @@ Christiano Piccinin, Jenifer Esidio, Luan Bachtold e Luiza Liebl.
 Reuse the *markdown snippet* for any slide in this template within your own @css[text-gold text-bold](PITCHME.md) files.
 @snapend
 
----
+--->
 @title[Tip! Fullscreen]
 
 ![TIP](template/img/tip.png)
