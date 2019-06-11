@@ -1,11 +1,15 @@
 +++?image=template/img/bg/gray.jpg&position=right&size=50% 100%
 @title[Heading + List Body]
 
+## @color[black](Sidebar<br>Slide Templates)
+
+@fa
+
 @snap[west text-16 text-bold text-italic text-orange span-30]
 Roteiro
 @snapend
 
-@snap[east text-white span-45]
+@snap[east text-white span-75]
 @ol[split-screen-list text-08](false)
 - O que é?
 - Funcionamento
